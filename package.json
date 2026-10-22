@@ -1,0 +1,16 @@
+{
+  "name": "weplay-uid-api-vercel",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@sparticuz/chromium": "^141.0.0",
+    "playwright-core": "^1.56.0"
+  }
+}
