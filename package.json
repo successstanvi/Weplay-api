@@ -1,3 +1,4 @@
+
 {
   "name": "weplay-uid-api-vercel",
   "version": "1.0.0",
@@ -6,7 +7,6 @@
   "scripts": {
     "test": "node --test",
     "start": "node index.js"
-    }
   },
   "engines": {
     "node": ">=20"
